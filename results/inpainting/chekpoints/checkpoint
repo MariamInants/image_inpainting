@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mariam/Desktop/ASDS/tez/autoencoder/results/inpainting/chekpoints/my-model"
+all_model_checkpoint_paths: "/Users/mariam/Desktop/ASDS/tez/autoencoder/results/inpainting/chekpoints/my-model"
